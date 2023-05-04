@@ -1,0 +1,2 @@
+bitbucket_pipes_toolkit==1.14.0
+docker==3.7.0
